@@ -1,0 +1,1 @@
+Hello git and github this is my first ever git project. I have no idea what I'm doing.
